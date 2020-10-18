@@ -1,0 +1,37 @@
+! 22/03/2020 https://www.facebook.com
+www.facebook.com###u_ps_fetchstream_5_0_c
+! 14.2.2020 https://Wildcard*
+*##.as-oil-greeter
+*###alma-data-policy-banner
+
+! 14.2.2020 https://www.puhelinvertailu.com
+www.puhelinvertailu.com##.cc_container--open.cc_container.cc_banner
+www.puhelinvertailu.com##.sharebox
+
+! 14.2.2020 https://www.uusiteknologia.fi
+www.uusiteknologia.fi###text-85
+www.uusiteknologia.fi###text-83
+www.uusiteknologia.fi###text-71
+www.uusiteknologia.fi###text-90
+www.uusiteknologia.fi###text-80
+www.uusiteknologia.fi##.footer-block-1
+
+! 14.2.2020 https://www.tivi.fi
+www.tivi.fi##.aaecre-1
+www.tivi.fi##.f94wip-0
+www.tivi.fi###disqus_thread
+
+! 18.2.2020 https://www.timeanddate.com
+www.timeanddate.com###mpo
+
+! 24.2.2020 https://www.is.fi
+www.is.fi##.jsx-85265287
+
+! 2.3.2020 https://www.mtvuutiset.fi
+www.mtvuutiset.fi##.promo-tile-live.promo-tile-single
+
+! 05/03/2020 https://www.youtube.com
+www.youtube.com##.ytp-ad-module.video-ads
+www.youtube.com##.ytd-banner-promo-renderer.style-scope
+www.youtube.com###dismissable>.ytd-compact-promoted-item-renderer
+www.youtube.com###dismissable>.ytd-compact-promoted-item-renderer
