@@ -1,6 +1,7 @@
 ! 22/03/2020 https://www.facebook.com
 www.facebook.com###u_ps_fetchstream_5_0_c
-! 14.2.2020 https://Wildcard*
+
+! 14.2.2020 https://Wildcard* These two below affect a few Alma Media owned sites.
 *##.as-oil-greeter
 *###alma-data-policy-banner
 
