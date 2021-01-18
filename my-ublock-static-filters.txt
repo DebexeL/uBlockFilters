@@ -1,7 +1,26 @@
+! 10/11/2019 https://aniwatcher.com
+||aniwatcher.com/img/watchme.png$image
+||aniwatcher.com/img/binance-banner.png$image
+aniwatcher.com###player > span > span
+aniwatcher.com###sitealert
+
+! 26/11/2019 https://www.kickassanime.rs
+www.kickassanime.rs##.glx-text
+www.kickassanime.rs##.glx-teaser
+
+! 27/11/2019 https://www.kickassanime.rs
+www.kickassanime.rs###right-sidebar
+
+! 13/01/2020 https://www1.kisscartoon.xyz
+||s.w.org/images/core/emoji/12.0.0-1/svg/1f642.svg$image
+www1.kisscartoon.xyz##.spu-content > p:nth-of-type(2)
+
+! 05/03/2020 https://www.youtube.com
+www.youtube.com##.ytp-ad-module.video-ads
+
 ! 22/03/2020 https://www.facebook.com
 www.facebook.com###u_ps_fetchstream_5_0_c
-
-! 14.2.2020 https://Wildcard* These two below affect a few Alma Media owned sites.
+! 14.2.2020 https://Wildcard*
 *##.as-oil-greeter
 *###alma-data-policy-banner
 
@@ -31,8 +50,51 @@ www.is.fi##.jsx-85265287
 ! 2.3.2020 https://www.mtvuutiset.fi
 www.mtvuutiset.fi##.promo-tile-live.promo-tile-single
 
-! 05/03/2020 https://www.youtube.com
-www.youtube.com##.ytp-ad-module.video-ads
+! Koronafiltteri 30.3.2020 https://www.is.fi
+www.is.fi##div>a:has-text(/Korona/i)
+www.is.fi##div>p:has-text(/Korona/i)
+www.is.fi##a>h2:has-text(/Korona/i)
+www.is.fi##div>h3:has-text(/Korona/i)
+www.is.fi##div>div>h3:has-text(/Korona/i)
+www.is.fi##[href*="/Koronavirus/i"]
+www.is.fi##ol>li>a>h3:has-text(/Korona/i)
+www.is.fi##article>div>div>a:has-text(/Korona/i)
+www.is.fi##main>article>a:has-text(/Korona/i)
+
+! Koronafiltteri 30.3.2020 https://vg.is.fi
+vg.is.fi##article.is-promo-list-article:has-text(/Korona/i)
+
+! 13/04/2020 https://www.kickassanime.rs
+www.kickassanime.rs###left-sidebar > .mb-3.ka-ax-wr
+
+! 06/06/2020 http://fanfox.net
+||static.mangazoneapp.com/v201812291704/mangazone/images/pop/2.png$image
+||fanfox.net/wxhfm.html?cid=79&v=20201214200252&a=5&p=0$subdocument
+||fanfox.net/wxhfm.html?cid=79&v=20201214200252&a=5&p=0$subdocument
+fanfox.net##div.ad-reader-con:nth-of-type(4)
+fanfox.net##.lb-win-con
+fanfox.net###edShow
+
+! 20/07/2020 https://www.youtube.com
 www.youtube.com##.ytd-banner-promo-renderer.style-scope
+
+! 02/08/2020 https://www.youtube.com
 www.youtube.com###dismissable>.ytd-compact-promoted-item-renderer
 www.youtube.com###dismissable>.ytd-compact-promoted-item-renderer
+
+! 2020-11-23 https://animedakimakurapillow.com
+animedakimakurapillow.com##html.js > script
+animedakimakurapillow.com##center
+animedakimakurapillow.com##.testimonials
+animedakimakurapillow.com###slick-slide02
+animedakimakurapillow.com###slick-slide01
+animedakimakurapillow.com###slick-slide00
+animedakimakurapillow.com##.slick-dotted.slick-slider.slick-initialized.heroCarousel
+animedakimakurapillow.com##.smile-launcher
+animedakimakurapillow.com##.”mobileHide”
+animedakimakurapillow.com###fc_widget
+animedakimakurapillow.com##.row
+
+! 2020-11-24 https://www.google.com
+www.google.com##.qGXjvb
+www.google.com###tadsb
