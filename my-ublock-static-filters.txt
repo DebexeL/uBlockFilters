@@ -98,3 +98,8 @@ animedakimakurapillow.com##.row
 ! 2020-11-24 https://www.google.com
 www.google.com##.qGXjvb
 www.google.com###tadsb
+
+! 2021-02-04 https://cardiagn.com
+cardiagn.com##.active.vopejgcboxujnwf-modal
+cardiagn.com##.vopejgcboxujnwf-wrapper
+cardiagn.com##.active.vopejgcboxujnwf-blackout
